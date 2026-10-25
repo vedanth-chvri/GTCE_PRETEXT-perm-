@@ -61,7 +61,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Worksheet 24 (LN 2.2, 2.3)",
-  "body": " Worksheet 24 (LN 2.2, 2.3)   Poll Question  True or False: for all values of and    Hint: plot it in Desmos 3D! And: how does this exercise relate to symmetric matrices?       24.1 Expressing Quadratic Forms       A quadratic form is a function: given by,      Matrix A is x and symmetric, and is a variable vector in      Example: express in the form       24.2 The Principle Axes Theorem    If is a symmetric matrix then there exists an orthogonal change of variable that transforms to with no cross-product terms.    Proof in the lecture videos\/textbook    24.2.1 Example   Consider where     Make a change of variable that transforms the quadratic form into another quadratic that has no cross-product terms.  For what values of will satisfy for any and      Tip: it may help to plot the surfaces in Desmos 3D to see what the surface looks like as you change value of        24.3 Classifying Quadratic Surfaces   Our goal: solve optimization problems with quadratic functions.   Take for example the surface:  Consider where .   If we set to be constant, we obtain the equation of a circle whose radius is       The surface above has a unique minimum at the origin. What about other surfaces?   A Quadratic Form Q is    positive definite if for all    negative definite if for all    positive semidefinite if for all    negative semidefinite if for all    indefinite if takes on positive and negative values for        If is a symmetric matrix with eigenvalues , then is    positive definite when all eigenvalues are positive   negative definite when all eigenvalues are negative   indefinite when at least one eigenvalue is negative and at least one eigenvalue is positive    24.3.1 Example  Assume Construct the matrix of the quadratic form, and classify the quadratic form     "
+  "body": " Worksheet 24 (LN 2.2, 2.3)   Poll Question  True or False: for all values of and    Hint: plot it in Desmos 3D! And: how does this exercise relate to symmetric matrices?       24.1 Expressing Quadratic Forms       A quadratic form is a function: given by,      Matrix A is x and symmetric, and is a variable vector in      Example: express in the form       24.2 The Principle Axes Theorem    If is a symmetric matrix then there exists an orthogonal change of variable that transforms to with no cross-product terms.    Proof in the lecture videos\/textbook    24.2.1 Example   Consider where     Make a change of variable that transforms the quadratic form into another quadratic that has no cross-product terms.  For what values of will satisfy for any and ?     Tip: it may help to plot the surfaces in Desmos 3D to see what the surface looks like as you change value of        24.3 Classifying Quadratic Surfaces   Our goal: solve optimization problems with quadratic functions.   Take for example the surface:   If we set to be constant, we obtain the equation of a circle whose radius is       The surface above has a unique minimum at the origin. What about other surfaces?   A Quadratic Form Q is    positive definite if for all    negative definite if for all    positive semidefinite if for all    negative semidefinite if for all    indefinite if takes on positive and negative values for      If is a symmetric matrix with eigenvalues , then is    positive definite when all eigenvalues are positive   negative definite when all eigenvalues are negative   indefinite when at least one eigenvalue is negative and at least one eigenvalue is positive       24.3.1 Example  Assume Construct the matrix of the quadratic form, and classify the quadratic form     "
 },
 {
   "id": "ws24-quadratic-forms-1",
@@ -127,18 +127,18 @@ var ptx_lunr_docs = [
   "body": "solve optimization problems with quadratic functions. "
 },
 {
-  "id": "ws24-classifying-surfaces-10",
+  "id": "ws24-classifying-surfaces-9",
   "level": "2",
-  "url": "worksheet24.html#ws24-classifying-surfaces-10",
+  "url": "worksheet24.html#ws24-classifying-surfaces-9",
   "type": "Definition",
   "number": "3",
   "title": "",
   "body": " A Quadratic Form Q is    positive definite if for all    negative definite if for all    positive semidefinite if for all    negative semidefinite if for all    indefinite if takes on positive and negative values for    "
 },
 {
-  "id": "worksheet24-6-1",
+  "id": "ws24-classifying-surfaces-10",
   "level": "2",
-  "url": "worksheet24.html#worksheet24-6-1",
+  "url": "worksheet24.html#ws24-classifying-surfaces-10",
   "type": "Theorem",
   "number": "4",
   "title": "",
