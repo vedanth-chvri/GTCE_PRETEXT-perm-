@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<worksheet xml:id="LinearAlgebraExam1page1" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title> Linear Algebra Sample Exam 1A </title>
+  <em> Work done on scratch paper will not be graded. You don't need to show your work on pages 1 and 2. </em>
+
+  <page>
+      <p>  1. (7 points) Indicate <m>\textbf{true}</m> if the statement is true, otherwise, indicate <m>\textbf{false}</m>.  
+      </p>
+
+<tabular halign="left">
+  <col width="90%"/>
+  <col width="5%"/>
+  <col width="5%"/>
+  <row header="yes" bottom="minor">
+    <cell></cell>
+    <cell>true</cell>
+    <cell>false</cell>
+  </row>
+  <row>
+    <cell>
+      a) The transform <m>T(x_1,x_2,x_3) = (1,x_2,x_3)</m> is a linear transform.
+    </cell>
+    <cell>◯</cell>
+    <cell>◯</cell>
+  </row>
+  <row>
+    <cell>
+      b) The linear mapping <m>T_A(\vec{x}) = A\vec{x}</m>, where
+      <m>T_A  :  \mathbb{R}^n \to \mathbb{R}^m</m>, is one-to-one if each
+      <m>\vec{b} \in \mathbb{R}^m</m> in the range of <m>T_A</m> is the image of some
+      <m>\vec{x} \in \mathbb{R}^n</m>.
+    </cell>
+    <cell>◯</cell>
+    <cell>◯</cell>
+  </row>
+  <row>
+    <cell>
+      c) If <m>A</m> is an <m>n \times n</m>  and
+      <m>A\vec{x} = \vec{b}</m> is consistent for every <m>\vec{b} \in \mathbb{R}^n</m>,
+      then every column of <m>A</m> must be pivotal.
+    </cell>
+    <cell>◯</cell>
+    <cell>◯</cell>
+  </row>
+  <row>
+    <cell>
+      d) If vectors <m>\vec{x}</m>, <m>\vec{y}</m>, and <m>\vec{z}</m> are linearly dependent,
+      then <m>\vec{x}</m> and <m>\vec{y}</m> are linearly dependent.
+    </cell>
+    <cell>◯</cell>
+    <cell>◯</cell>
+  </row>
+  <row>
+    <cell>
+      e) If <m>\vec{b} = \vec{a}_j</m>, and <m>\vec{a}_j</m> is a column of an
+      <m>m \times n</m> matrix <m>A</m>, then <m>A\vec{x} = \vec{b}</m> must be consistent.
+    </cell>
+    <cell>◯</cell>
+    <cell>◯</cell>
+  </row>
+  <row>
+    <cell>
+      f) If a linear system has more unknowns than equations, then the system must have an
+      infinite number of solutions.
+    </cell>
+    <cell>◯</cell>
+    <cell>◯</cell>
+  </row>
+  <row>
+    <cell>
+      g) If a matrix <m>A</m> is in row reduced echelon form (RREF), then the leading entry
+      of every non-zero row must be a 1, and it must be the only non-zero entry in its column.
+    </cell>
+    <cell>◯</cell>
+    <cell>◯</cell>
+  </row>
+  <row bottom="major">
+    <cell></cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+</tabular>
+
+<p> 2. (5 points) Indicate whether the situations are <m> \textbf{possible} </m> or <m> \textbf{impossible} </m>. </p>
+
+<tabular>
+  <col width="80%"/>
+  <col width="10%"/>
+  <col width="10%"/>
+
+  <row header="yes" bottom="minor">
+    <cell></cell>
+    <cell>possible</cell>
+    <cell>impossible</cell>
+  </row>
+  <row>
+    <cell>a) <m> 2 \times 2 </m> matrices <m> A </m> and <m> B </m> are row  equivalent. The columns of <m> A </m> span the
+    <m>x_1</m>-axis, and the columns of <m> B </m> span the <m>x_2</m>-axis.</cell>
+    <cell>◯</cell>
+    <cell>◯</cell>
+  </row>
+  <row>
+    <cell>b) <m> A </m> is <m> m \times n </m> where <m> m &lt; n </m>, and the columns of <m> A </m> are linearly independent.</cell>
+    <cell>◯</cell>
+    <cell>◯</cell>
+  </row>
+  <row>
+    <cell>c) Vector <m> \vec{x} </m> is in <m> \mathbb{R}^n </m>, every row of the <m> m \times n </m> matrix <m> A </m> contains a pivot, and the linear system <m> A\vec{x} = \vec{b} </m> is inconsistent for some <m> \vec{b} \in \mathbb{R}^m </m>.</cell>
+    <cell>◯</cell>
+    <cell>◯</cell>
+  </row>
+  <row>
+    <cell>d) <m> T(\vec{x}) = A\vec{x} </m> is an onto linear transform, <m> A </m> is <m> 3 \times 4 </m>, and <m> A\vec{x} = \vec{b} </m> is always consistent for some <m> \vec{b}</m> in <m> \mathbb{R}^3 </m>.</cell>
+    <cell>◯</cell>
+    <cell>◯</cell>
+  </row>
+  <row>
+    <cell>e) <m> T(\vec{x}) = A\vec{x} </m> is a linear transform, <m> A </m> is <m> 3 \times 4 </m>, and <m> \vec{b} </m> is a vector that is in the range of the tranform but <m> \vec{b} </m> is not in the co-domain of the transform.</cell>
+    <cell>◯</cell>
+    <cell>◯</cell>
+  </row>
+  <row bottom="major">
+    <cell></cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+</tabular>
+
+
+</page>
+
+
+</worksheet>
