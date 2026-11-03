@@ -13,7 +13,7 @@
   <col width="90%"/>
   <col width="5%"/>
   <col width="5%"/>
-  <row header="yes" bottom="minor">
+  <row header="yes" bottom="minor"> 
     <cell></cell>
     <cell>true</cell>
     <cell>false</cell>
