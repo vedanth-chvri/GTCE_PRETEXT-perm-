@@ -145,6 +145,15 @@ var ptx_lunr_docs = [
   "body": " If is a symmetric matrix with eigenvalues , then is    positive definite when all eigenvalues are positive   negative definite when all eigenvalues are negative   indefinite when at least one eigenvalue is negative and at least one eigenvalue is positive   "
 },
 {
+  "id": "LinearAlgebraExam1page1",
+  "level": "1",
+  "url": "LinearAlgebraExam1page1.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Linear Algebra Sample Exam 1A",
+  "body": " Linear Algebra Sample Exam 1A  Work done on scratch paper will not be graded. You don't need to show your work on pages 1 and 2.   1. (7 points) Indicate if the statement is true, otherwise, indicate .        true  false    a) The transform is a linear transform.  ◯  ◯    b) The linear mapping , where , is one-to-one if each in the range of is the image of some .  ◯  ◯    c) If is an and is consistent for every , then every column of must be pivotal.  ◯  ◯    d) If vectors , , and are linearly dependent, then and are linearly dependent.  ◯  ◯    e) If , and is a column of an matrix , then must be consistent.  ◯  ◯    f) If a linear system has more unknowns than equations, then the system must have an infinite number of solutions.  ◯  ◯    g) If a matrix is in row reduced echelon form (RREF), then the leading entry of every non-zero row must be a 1, and it must be the only non-zero entry in its column.  ◯  ◯         2. (5 points) Indicate whether the situations are or .        possible  impossible    a) matrices and are row equivalent. The columns of span the -axis, and the columns of span the -axis.  ◯  ◯    b) is where , and the columns of are linearly independent.  ◯  ◯    c) Vector is in , every row of the matrix contains a pivot, and the linear system is inconsistent for some .  ◯  ◯    d) is an onto linear transform, is , and is always consistent for some in .  ◯  ◯    e) is a linear transform, is , and is a vector that is in the range of the tranform but is not in the co-domain of the transform.  ◯  ◯          "
+},
+{
   "id": "handouts",
   "level": "1",
   "url": "handouts.html",
