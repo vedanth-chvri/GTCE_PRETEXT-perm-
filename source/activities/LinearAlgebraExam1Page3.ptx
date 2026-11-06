@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <worksheet xml:id="LinearAlgebraExam1Page3" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title> Linear Algebra Sample Exam 1A - PAGE 3 </title>
     
@@ -30,7 +31,9 @@
 of <m> a, b, c, d</m> so that the circle below passes through the points <m> P(1,0), Q(0,-2), </m> and <m> R(0,0).</m>  Please show work. </p>
 <p> <me> a(x^2 + y^2) + bx + cy + d = 0 </me> </p>
 
-
+<p>
+  <m>\rule{0pt}{4cm}</m> 
+</p>
 
 
 </page>
