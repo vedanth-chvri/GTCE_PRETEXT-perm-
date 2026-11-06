@@ -160,7 +160,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Linear Algebra Sample Exam 1A - PAGE 3",
-  "body": " Linear Algebra Sample Exam 1A - PAGE 3   5. (2 points) Write down the solutions to in parametric vector form. You do not need to show your work.      6. (2 points) Please show your work for this question.  Construct a linear system and use row reductions to determine a non zero choice of so that the circle below passes through the points and Please show work.      "
+  "body": " Linear Algebra Sample Exam 1A - PAGE 3   5. (2 points) Write down the solutions to in parametric vector form. You do not need to show your work.      6. (2 points) Please show your work for this question.  Construct a linear system and use row reductions to determine a non zero choice of so that the circle below passes through the points and Please show work.         "
 },
 {
   "id": "handouts",
