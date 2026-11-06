@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<worksheet xml:id="LinearAlgebraExam1Page3" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title> Linear Algebra Sample Exam 1A - PAGE 3 </title>
+    
+<page>
+    <p>  5. (2 points) Write down the solutions to <m> A\vec{x} = \vec{b}</m> in parametric vector form. 
+    You do not need to show your work. </p>
+
+    <me>
+  A = \begin{pmatrix}
+    0 &amp; 2 &amp; 0 &amp; 4 &amp; 0 \\
+    0 &amp; 0 &amp; 1 &amp; -5 &amp; 0 \\
+    0 &amp; 0 &amp; 0 &amp; 0 &amp; 3
+  \end{pmatrix}, \quad 
+  \vec{b} = \begin{pmatrix}
+    6 \\
+    4 \\
+    3
+  \end{pmatrix}
+</me>
+
+
+
+<p>
+  <m>\rule{0pt}{5cm}</m> 
+</p>
+
+<p>  6. (2 points) Please show your work for this question.</p>
+<p> Construct a linear system and use row reductions to determine a non zero choice
+of <m> a, b, c, d</m> so that the circle below passes through the points <m> P(1,0), Q(0,-2), </m> and <m> R(0,0).</m>  Please show work. </p>
+<p> <me> a(x^2 + y^2) + bx + cy + d = 0 </me> </p>
+
+
+
+
+</page>
+
+  
+  
+</worksheet>

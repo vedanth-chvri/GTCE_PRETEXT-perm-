@@ -51,6 +51,7 @@
       <xi:include href="./activities/01-intro-activity.ptx"/>
       <xi:include href="./activities/worksheet24.ptx" />
       <xi:include href="./activities/LinearAlgebraExam1page1.ptx"/>
+      <xi:include href="./activities/LinearAlgebraExam1Page3.ptx"/>
 
       <!-- Add more xi:include files here to include them in the main course -->
     </chapter>
