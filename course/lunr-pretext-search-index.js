@@ -163,6 +163,15 @@ var ptx_lunr_docs = [
   "body": " Linear Algebra Sample Exam 1A - PAGE 3   5. (2 points) Write down the solutions to in parametric vector form. You do not need to show your work.      6. (2 points) Please show your work for this question.  Construct a linear system and use row reductions to determine a non zero choice of so that the circle below passes through the points and Please show work.         "
 },
 {
+  "id": "LinearAlgebraExamEPage1",
+  "level": "1",
+  "url": "LinearAlgebraExamEPage1.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Linear Algebra Sample Exam E - PAGE 1",
+  "body": " Linear Algebra Sample Exam E - PAGE 1   1. (7 points) Indicate if the statement is true, otherwise, indicate .        true  false    a) If are the standard vectors in and is a matrix transform that satisfies then   ◯  ◯    b) If is , then the transformation cannot be onto.  ◯  ◯    c) If is a solution to the inhomogeneous system , then any vector in is also a solution to .  ◯  ◯    d) If there are non-trivial solutions to the linear system , the columns of must be linearly independent.  ◯  ◯    e) If the linear system is inconsistent, then cannot be in the span of the columns of .  ◯  ◯    f) If is a nontrivial solution of , then every entry of is nonzero.  ◯  ◯    g) Suppose and are matrices. If is row equivalent to , and the first column of is pivotal, then the first column of is also pivotal.  ◯  ◯           2. (5 points) Indicate whether the situations are or .        possible  impossible    a) is a matrix that has pivotal columns, and is a linear system with free variables.  ◯  ◯    b) is a matrix whose columns are linearly independent and span .  ◯  ◯    c) The augmented matrix does not have a pivot in the last column and represents an inconsistent linear system.  ◯  ◯    d) is a one-to-one linear transform, is , and is inconsistent for some .  ◯  ◯    e) is a linear transform that maps vectors in to , is the zero vector with exactly entries, and .  ◯  ◯          "
+},
+{
   "id": "handouts",
   "level": "1",
   "url": "handouts.html",
