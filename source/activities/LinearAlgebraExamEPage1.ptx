@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<worksheet xml:id="LinearAlgebraExamEPage1" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title> Linear Algebra Sample Exam E - PAGE 1 </title>
+    
+<page>
+      <p>  1. (7 points) Indicate <m>\textbf{true}</m> if the statement is true, otherwise, indicate <m>\textbf{false}</m>.  
+      </p>
+
+<tabular halign="left">
+  <col width="90%"/>
+  <col width="5%"/>
+  <col width="5%"/>
+  <row header="yes" bottom="minor"> 
+    <cell></cell>
+    <cell>true</cell>
+    <cell>false</cell>
+  </row>
+  <row>
+    <cell>
+      a) If <m> \vec{e_1} </m> are the standard vectors in <m> \mathbb{R}^2, </m>
+      and <m> T(\vec{x}) = A\vec{x} </m> is a matrix transform
+that satisfies <m> T(\vec{e_1}) = T(A\vec{e_2}) = 1,  </m> then <m>A = \begin{pmatrix} 1 &amp; 1 \end{pmatrix}</m>
+    </cell>
+    <cell>◯</cell>
+    <cell>◯</cell>
+  </row>
+  <row>
+    <cell>
+      b) If <m> A</m> is <m> 2 \times 3</m> , then the transformation <m> \vec{x} \to A\vec{x} </m> cannot be onto. 
+    </cell>
+    <cell>◯</cell>
+    <cell>◯</cell>
+  </row>
+  <row>
+    <cell>
+      c) If <m>\vec{x}_1</m> is a solution to the inhomogeneous system <m>A\vec{x} = \vec{b}</m>, then any vector in <m>\operatorname{Span}\{\vec{x}_1\}</m> is also a solution to <m>A\vec{x} = \vec{b}</m>.
+    </cell>
+    <cell>◯</cell>
+    <cell>◯</cell>
+  </row>
+  <row>
+    <cell>
+      d) If there are non-trivial solutions to the linear system <m>A\vec{x} = \vec{0}</m>, the columns of <m>A</m> must be linearly independent.
+    </cell>
+    <cell>◯</cell>
+    <cell>◯</cell>
+  </row>
+  <row>
+    <cell>
+      e) If the linear system <m>A\vec{x} = \vec{b}</m> is inconsistent, then <m>\vec{b}</m> cannot be in the span of the columns of <m>A</m>.
+    </cell>
+    <cell>◯</cell>
+    <cell>◯</cell>
+  </row>
+  <row>
+    <cell>
+      f) If <m>\vec{x}</m> is a nontrivial solution of <m>A\vec{x} = \vec{0}</m>, then every entry of <m>\vec{x}</m> is nonzero.
+    </cell>
+    <cell>◯</cell>
+    <cell>◯</cell>
+  </row>
+  <row>
+    <cell>
+      g) Suppose <m>A</m> and <m>E</m> are <m>n \times n</m> matrices. If <m>A</m> is row equivalent to <m>E</m>, and the first column of <m>A</m> is pivotal, then the first column of <m>E</m> is also pivotal.
+    </cell>
+    <cell>◯</cell>
+    <cell>◯</cell>
+  </row>
+  <row bottom="major">
+    <cell></cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+</tabular>
+
+<p> 2. (5 points) Indicate whether the situations are <m> \textbf{possible} </m> or <m> \textbf{impossible} </m>. </p>
+
+<tabular>
+  <col width="80%"/>
+  <col width="10%"/>
+  <col width="10%"/>
+
+  <row header="yes" bottom="minor">
+    <cell></cell>
+    <cell>possible</cell>
+    <cell>impossible</cell>
+  </row>
+  <row>
+    <cell>a) <m>A</m> is a <m>5 \times 4</m> matrix that has <m>3</m> pivotal columns, and <m>A\vec{x} = \vec{b}</m> is a linear system with <m>2</m> free variables.</cell>
+    <cell>◯</cell>
+    <cell>◯</cell>
+  </row>
+  <row>
+    <cell>b) <m>A</m> is a <m>3 \times 4</m> matrix whose columns are linearly independent and span <m>\mathbb{R}^3</m>.</cell>
+    <cell>◯</cell>
+    <cell>◯</cell>
+  </row>
+  <row>
+    <cell>c) The augmented matrix <m>(A \mid b)</m> does not have a pivot in the last column and represents an inconsistent linear system.</cell>
+    <cell>◯</cell>
+    <cell>◯</cell>
+  </row>
+  <row>
+    <cell>d) <m>T(\vec{x}) = A\vec{x}</m> is a one-to-one linear transform, <m>A</m> is <m>m \times n</m>, and <m>A\vec{x} = \vec{b}</m> is inconsistent for some <m>\vec{b} \in \mathbb{R}^m</m>.</cell>
+    <cell>◯</cell>
+    <cell>◯</cell>
+  </row>
+  <row>
+    <cell>e) <m>T(\vec{x}) = A\vec{x}</m> is a linear transform that maps vectors in <m>\mathbb{R}^n</m> to <m>\mathbb{R}^n</m>, <m>\vec{0}</m> is the zero vector with exactly <m>n</m> entries, and <m>T(\vec{0}) \neq \vec{0}</m>.</cell>
+    <cell>◯</cell>
+    <cell>◯</cell>
+  </row>
+  <row bottom="major">
+    <cell></cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+</tabular>
+
+
+</page>
+
+  
+  
+</worksheet>
